@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M128 64
+       C128 46 142 32 160 32
+       H352
+       C370 32 384 46 384 64
+       V448
+       L256 352
+       L128 448
+       Z"
+    fill="#E11D48"/>
+
+  <polygon
+    points="220,180 220,300 324,240"
+    fill="white"/>
+</svg>
